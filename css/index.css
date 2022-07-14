@@ -1,0 +1,70 @@
+body {
+  height: 5000px;
+}
+.right {
+  background-color: purple;
+  height: 50%;
+  width: 75%;
+  background-color: lightblue;
+  float: right;
+  padding: 15px;
+}
+.left {
+  width: 2000px;
+  background-color: green;
+  height: 50%; 
+  width: 20%;
+  float: left;
+  padding: 15px;
+ margin: 0;
+  }
+
+  .topL{
+float: left;
+height: 30%;
+width: 100%;
+background-color: orange;
+  }
+
+  .bottomL{
+float: left;
+height: 30%;
+width: 100%;
+background-color: orangered;
+  }
+
+  .nav{
+    height: 50px;
+    padding-bottom: 10px;
+    background-color: lightgray;
+  }
+  .home{
+    display: inline-block;
+    width: 94px;
+    padding: 20px;
+    background-color: gray;
+  }
+  .diet{
+    display: inline-block;
+    width: 94px;
+    padding: 20px;
+    background-color: gray;
+  }
+  .habitat{
+    display: inline-block;
+    width: 94px;
+    padding: 20px;
+    background-color: gray;
+   
+  }
+  
+
+.background{
+  height: 4000px;
+}
+
+.nav{
+  width:100%;
+
+}
+
